@@ -8,7 +8,7 @@
     <link href="/project/2023/03/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/project/2023/03/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2023/03/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class="" title="引用图片">]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><figure class="highlight smali"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs smali">const<span class="hljs-built_in"> array </span>= [1,2,3,4,5]<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
